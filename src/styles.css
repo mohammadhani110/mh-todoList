@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.flex {
+  display: flex;
+}
+.f-d-r {
+  flex-direction: row !important;
+}
+.f-d-c {
+  flex-direction: column;
+}
+.f-jc-sb {
+  justify-content: space-between;
+}
+.f-jc-c {
+  justify-content: center;
+}
+.f-ai-c {
+  align-items: center;
+}
+
+.mt-1 {
+  margin-top: 1rem;
+}
+.p-0 {
+  padding: 0;
+}
+
+.card {
+  min-width: 300px;
+}
+
+.disabled {
+  text-decoration: line-through;
+}
